@@ -3,6 +3,7 @@
 - 🔭 Software engineer @ Vitrine Retail
 - 🌱 Learning (and improving on) Laravel, Node and React
 - 💬 Ask me about PHP and JavaScript
+- 😄 Pronouns: He/Him
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimalonso&show_icons=false&theme=merko)
 
