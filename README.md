@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Guilherme Alonso 👋
+
+- 🔭 Software engineer @ Vitrine Retail
+- 🌱 Learning (and improving on) Laravel, Node and React
+- 💬 Ask me about PHP and JavaScript
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimalonso&show_icons=false&theme=merko)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0D0D?style-flat&labelColor=0D0D0D&logo=linkedin&color=white)](https://www.linkedin.com/in/guilherme-marques-alonso/)
 
 <!--
 **guimalonso/guimalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
